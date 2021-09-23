@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/LummiTheC/ASD/static/css/main.2889333b.chunk.css",
+    "main.js": "/LummiTheC/ASD/static/js/main.7711a2ae.chunk.js",
+    "main.js.map": "/LummiTheC/ASD/static/js/main.7711a2ae.chunk.js.map",
+    "runtime-main.js": "/LummiTheC/ASD/static/js/runtime-main.b484e518.js",
+    "runtime-main.js.map": "/LummiTheC/ASD/static/js/runtime-main.b484e518.js.map",
+    "static/js/2.61476dfd.chunk.js": "/LummiTheC/ASD/static/js/2.61476dfd.chunk.js",
+    "static/js/2.61476dfd.chunk.js.map": "/LummiTheC/ASD/static/js/2.61476dfd.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/LummiTheC/ASD/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/LummiTheC/ASD/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/LummiTheC/ASD/index.html",
+    "static/css/main.2889333b.chunk.css.map": "/LummiTheC/ASD/static/css/main.2889333b.chunk.css.map",
+    "static/js/2.61476dfd.chunk.js.LICENSE.txt": "/LummiTheC/ASD/static/js/2.61476dfd.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/LummiTheC/ASD/static/media/1.75f03515.png",
+    "static/media/reset.css": "/LummiTheC/ASD/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b484e518.js",
+    "static/js/2.61476dfd.chunk.js",
+    "static/css/main.2889333b.chunk.css",
+    "static/js/main.7711a2ae.chunk.js"
+  ]
+}
